@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [multisim-scheme](https://github.com/vovandel155-tech/multisim-schemes) - Builds native NI Multisim 14 circuit files (.ms14) from a schematic picture or description: real Multisim parts, instruments, ngspice checks, self-update.
 
 
 ## 📊 Data & Analysis
